@@ -4,8 +4,8 @@
 
 I am from Vietnam, and I love computers and programming. I love learning algorithms and frameworks like React, ExpressJs. In addition, I am also an avid reader of books and documents.
 
-##### Skills and Experience: 
-- ##### NodeJs, ReactJs
+#### Skills and Experience: 
+- #### NodeJs, ReactJs
 - MySql
 - Git
 - Algorithm & Data structure
