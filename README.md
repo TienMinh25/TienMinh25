@@ -6,8 +6,10 @@ I am from Vietnam, and I love computers and programming. I love learning algorit
 
 #### Skills and Experience: 
 - NodeJs, ReactJs
-- MySql
-- Git
+- Ruby on Rails
+- MySql, MSSQL
+- Python, Java
+- Git, Github
 - Algorithm & Data structure
 - HTML/CSS
 - C++ 
