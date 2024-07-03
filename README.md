@@ -2,13 +2,12 @@
 #### I am developer
 ![I am developer](https://scontent.fhan1-1.fna.fbcdn.net/v/t39.30808-6/412586083_2404902783026733_3354458856146947381_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeE56nTn3zlTg3tjhIyt6ljwJe1BAOIvqNgl7UEA4i-o2BiylHg-gbwHtbLS3BAOvEVmAi_168e11BnxVX8fKn1_&_nc_ohc=sdU54qXe6bIQ7kNvgFvREdX&_nc_ht=scontent.fhan1-1.fna&oh=00_AYDlw0E1xLACo4DO8M0WChZYEDlx88MqviEyUe1Aajsp0g&oe=668ADC49)
 
-I am from Vietnam, and I love computers and programming. I love learning algorithms and frameworks like React, ExpressJs. In addition, I am also an avid reader of books and documents.
+I am from Vietnam, and I love computers and programming. I love learning algorithms and frameworks like React, NestJs. In addition, I am also an avid reader of books and documents.
 
 #### Skills and Experience: 
 - NodeJs, ReactJs
 - Ruby on Rails
-- MySql, MSSQL
-- Python, Java
+- MySql, Redis, Mongodb
 - Git, Github
 - Algorithm & Data structure
 - HTML/CSS
