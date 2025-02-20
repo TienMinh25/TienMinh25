@@ -1,5 +1,4 @@
 # Hi, I'm Tien Minh 👋🏻
----
 
 <div align="center">
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=TienMinh25&theme=default&show_icons=true&hide_border=false&count_private=true" height="200px"/>
